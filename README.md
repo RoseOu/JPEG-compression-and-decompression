@@ -1,7 +1,7 @@
 # JPEG-compression-and-decompression
 JPEG图像压缩与解压缩算法    
 
-参考着以下Github地址稍加修改。     
+参考着以下Github地址的代码，再稍加修改。     
 https://github.com/vortexJCH/RC4-Image-Encryption-Based-on-JPEG   
 
 参考资料：    
